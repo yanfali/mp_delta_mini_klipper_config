@@ -47,7 +47,9 @@ reset halt
 ```
 
 ### erase flash
+```
 stm32f0x mass_erase 0
+```
 
 ### flash bootloader back
 ```
